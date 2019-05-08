@@ -1,0 +1,1 @@
+{"jobID":"27500efe-57b2-b6cc-65b4-556c0bfc5a0b","spec":{"type":"policy","cause":{"Message":"","User":"Bruno Gomes \u003cbruno@ometria.com\u003e"},"spec":{"dev:deployment/podinfo":{"add":{"automated":"true"},"remove":null}}},"result":null}
